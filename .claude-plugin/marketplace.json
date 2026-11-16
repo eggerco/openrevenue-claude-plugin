@@ -1,0 +1,17 @@
+{
+  "name": "openrevenue",
+  "description": "OpenRevenue plugin for Claude: web analytics skills, commands and the hosted OpenRevenue connector.",
+  "owner": {
+    "name": "Egger, Inc.",
+    "email": "support@openrevenue.com",
+    "url": "https://www.openrevenue.com"
+  },
+  "plugins": [
+    {
+      "name": "openrevenue",
+      "source": "./",
+      "description": "Ask Claude about your OpenRevenue web analytics: traffic, sources, pages, audiences, funnels, goals and Core Web Vitals.",
+      "category": "analytics"
+    }
+  ]
+}

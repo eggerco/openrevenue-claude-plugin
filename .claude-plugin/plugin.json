@@ -1,0 +1,20 @@
+{
+  "name": "openrevenue",
+  "displayName": "OpenRevenue",
+  "version": "1.0.0",
+  "description": "Ask Claude about your OpenRevenue web analytics: traffic, sources, pages, audiences, funnels, goals and Core Web Vitals, straight from your own account.",
+  "author": {
+    "name": "Egger, Inc.",
+    "email": "support@openrevenue.com",
+    "url": "https://www.openrevenue.com"
+  },
+  "homepage": "https://www.openrevenue.com/docs/api/mcp#claude",
+  "repository": "https://github.com/eggerco/openrevenue-claude-plugin",
+  "license": "MIT",
+  "keywords": ["analytics", "web-analytics", "traffic", "funnels", "core-web-vitals", "openrevenue"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.openrevenue.com/docs/api/mcp#claude",
+  "supportUrl": "https://www.openrevenue.com/contact",
+  "privacyPolicyUrl": "https://www.openrevenue.com/privacy",
+  "termsOfServiceUrl": "https://www.openrevenue.com/terms"
+}
