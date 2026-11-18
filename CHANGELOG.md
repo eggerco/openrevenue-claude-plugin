@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Orange OpenRevenue brand icon.
+- Documentation links point straight to docs.openrevenue.com.
+
 ## 1.0.0
 
 - Initial release for Claude.
