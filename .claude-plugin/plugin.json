@@ -1,7 +1,7 @@
 {
   "name": "openrevenue",
   "displayName": "OpenRevenue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ask Claude about your OpenRevenue web analytics: traffic, sources, pages, audiences, funnels, goals and Core Web Vitals, straight from your own account.",
   "author": {
     "name": "Egger, Inc.",
