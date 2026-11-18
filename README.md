@@ -51,7 +51,7 @@ On claude.ai and in Cowork, add the plugin from the plugin directory once it is 
 
 ## Support
 
-- Documentation: <https://www.openrevenue.com/docs/api/mcp>
+- Documentation: <https://docs.openrevenue.com/api/mcp>
 - Email: <support@openrevenue.com>
 
 ## License
